@@ -43,7 +43,7 @@ I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://
       </td>
       <td width="25%" align="center">
         <span>Fortran</span><br><br>
-        <img height="64px" src="https://plugins.jetbrains.com/files/9699/79496/icon/META-INF_pluginIcon.png">
+        <img height="64px" src="https://fortran-lang.org/assets/img/fortran_logo_256x256.png">
       </td>
       <td width="25%" align="center">
         <span>HTML</span><br><br>
