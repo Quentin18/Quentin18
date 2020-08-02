@@ -112,6 +112,10 @@ I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://
 </table>
 
 ## 🚀 My projects
+- 📈 **Productivity Tools**
+
+    * [pywebdoc](https://github.com/Quentin18/pywebdoc) - a CLI application to quickly open web documentation about Python
+
 - ✉ **Communication**
 
     * [Mail Sender SU](https://github.com/Quentin18/Mail-Sender-Sorbonne-Universite) - mail sending application in Python using Click and tkinter
