@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Quentin Deschamps!
+# 👋 Hi there, I'm Quentin Deschamps!
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Quentin18/)](https://github.com/Quentin18/)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://gitlab.lip6.fr/deschampsq/)](https://gitlab.lip6.fr/deschampsq/)
@@ -19,39 +19,45 @@ I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://
 <table>
   <tbody>
     <tr valign="top">
-     <td width="25%" align="center">
+     <td width="20%" align="center">
         <span>Python</span><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>C</span><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/c-2975.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>C++</span><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/c.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>R</span><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/r-lang.svg">
       </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>Matlab</span><br><br>
         <img height="64px" src="https://fr.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/24241/versions/5/screenshot.png">
       </td>
-      <td width="25%" align="center">
+    </tr>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span>LaTeX</span><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/latex.svg">
+      </td>
+      <td width="20%" align="center">
         <span>Fortran</span><br><br>
         <img height="64px" src="https://fortran-lang.org/assets/img/fortran_logo_256x256.png">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>HTML</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>CSS</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+      <td width="20%" align="center">
       </td>
     </tr>
   </tbody>
@@ -61,39 +67,45 @@ I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>VS Code</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>Git</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>GitHub</span><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/github-1.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>GitLab</span><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg">
       </td>
+      <td width="20%" align="center">
+        <span>Overleaf</span><br><br>
+        <img height="64px" src="https://cdn.overleaf.com/img/ol-brand/overleaf_og_logo.png">
+      </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>Travis CI</span><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/travis-ci.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>Ubuntu</span><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg">
       </td>
-      <td width="25%" align="center">
-        <span>LaTeX</span><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/latex.svg">
-      </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>PyPI</span><br><br>
         <img height="64px" src="https://pypi.org/static/images/twitter.90915068.jpg">
+      </td>
+      <td width="20%" align="center">
+        <span>Read the Docs</span><br><br>
+        <img height="64px" src="https://pbs.twimg.com/profile_images/525686734760067072/OhsWgbsr.png">
+      </td>
+      <td width="20%" align="center">
       </td>
     </tr>
   </tbody>
@@ -104,7 +116,7 @@ I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://
 
     * [Mail Sender SU](https://github.com/Quentin18/Mail-Sender-Sorbonne-Universite) - mail sending application in Python using Click and tkinter
 
-- 📊 **Mathematics**
+- 🔢 **Mathematics**
 
     * [Affapy](https://gitlab.lip6.fr/hilaire/affapy) - a Python library for multiprecision Affine Arithmetic
     * [Matplotlib fractals](https://github.com/Quentin18/Matplotlib-fractals) - a collection of fractals in Python using matplotlib
@@ -129,6 +141,13 @@ I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://
 - 🎹 **Music**
 
     * [Synthesizer MIPS](https://github.com/Quentin18/Synthesizer-MIPS) - a musical synthesizer in MIPS assembly language
+
+## 📊 My GitHub stats
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Quentin18&hide=prs,issues,contribs&include_all_commits=true&show_icons=true&theme=radical" alt="Quentin18's github stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quentin18&layout=compact&theme=radical" />
+
+</br>
 
 ---
 ⭐️ From [Quentin18](https://github.com/Quentin18)
