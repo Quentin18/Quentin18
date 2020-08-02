@@ -146,12 +146,7 @@ I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://
 
     * [Synthesizer MIPS](https://github.com/Quentin18/Synthesizer-MIPS) - a musical synthesizer in MIPS assembly language
 
-## 📊 GitHub Stats
-<p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quentin18&hide=prs,issues,contribs&include_all_commits=true&show_icons=true&theme=radical" alt="Quentin18's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quentin18&layout=compact&theme=radical" />
-</p>
-
+## 📊 My stats
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -231,7 +226,13 @@ HTML         1 repos        █░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-</br>
+<details>
+<summary>GitHub stats</summary>
+  <p align = "center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Quentin18&hide=prs,issues,contribs&include_all_commits=true&show_icons=true&theme=radical" alt="Quentin18's github stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quentin18&layout=compact&theme=radical" />
+  </p>
+</details>
 
 ---
 ⭐️ From [Quentin18](https://github.com/Quentin18)
