@@ -146,10 +146,14 @@ I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://
 
     * [Synthesizer MIPS](https://github.com/Quentin18/Synthesizer-MIPS) - a musical synthesizer in MIPS assembly language
 
-## 📊 My GitHub stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Quentin18&hide=prs,issues,contribs&include_all_commits=true&show_icons=true&theme=radical" alt="Quentin18's github stats" />
+## 📊 GitHub Stats
+<p align = "center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Quentin18&hide=prs,issues,contribs&include_all_commits=true&show_icons=true&theme=radical" alt="Quentin18's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quentin18&layout=compact&theme=radical" />
+</p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quentin18&layout=compact&theme=radical" />
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </br>
 
