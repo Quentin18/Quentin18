@@ -16,52 +16,15 @@ I'm 20 years old and I'm studying [applied mathematics and computer science](htt
 I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://en.wikipedia.org/wiki/Saxhorn) since I was 5 years old.
 
 ## 🌐 Programming languages
-<table>
-  <tbody>
-    <tr valign="top">
-     <td width="20%" align="center">
-        <span>Python</span><br><br>
-        <img height="32px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>C</span><br><br>
-        <img height="32px" src="https://cdn.worldvectorlogo.com/logos/c-2975.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>C++</span><br><br>
-        <img height="32px" src="https://cdn.worldvectorlogo.com/logos/c.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>LaTeX</span><br><br>
-        <img height="32px" src="https://cdn.worldvectorlogo.com/logos/latex.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Matlab</span><br><br>
-        <img height="32px" src="https://fr.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/24241/versions/5/screenshot.png">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>R</span><br><br>
-        <img height="32px" src="https://cdn.worldvectorlogo.com/logos/r-lang.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Fortran</span><br><br>
-        <img height="32px" src="https://fortran-lang.org/assets/img/fortran_logo_256x256.png">
-      </td>
-      <td width="20%" align="center">
-        <span>HTML</span><br><br>
-        <img height="32px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>CSS</span><br><br>
-        <img height="32px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="20%" align="center">
-      </td>
-    </tr>
-  </tbody>
-</table>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/c-2975.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/latex.svg"></code>
+<code><img height="50" src="https://fr.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/24241/versions/5/screenshot.png"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/r-lang.svg"></code>
+<code><img height="50" src="https://fortran-lang.org/assets/img/fortran_logo_256x256.png"></code>
+<code><img height="50" src="https://cdn.svgporn.com/logos/html-5.svg"></code>
+<code><img height="50" src="https://cdn.svgporn.com/logos/css-3.svg"></code>
 
 ## 🛠️ My tools
 <table>
@@ -147,6 +110,8 @@ I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://
     * [Synthesizer MIPS](https://github.com/Quentin18/Synthesizer-MIPS) - a musical synthesizer in MIPS assembly language
 
 ## 📊 My stats
+![Waka Readme](https://github.com/Quentin18/Quentin18/workflows/Waka%20Readme/badge.svg)
+
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-295029%20Lines%20of%20code-blue)
 
