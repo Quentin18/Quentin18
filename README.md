@@ -20,59 +20,23 @@ I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/c-2975.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/latex.svg"></code>
-<code><img height="50" src="https://fr.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/24241/versions/5/screenshot.png"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/r-lang.svg"></code>
-<code><img height="50" src="https://fortran-lang.org/assets/img/fortran_logo_256x256.png"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Fortran.png"></code>
 <code><img height="50" src="https://cdn.svgporn.com/logos/html-5.svg"></code>
 <code><img height="50" src="https://cdn.svgporn.com/logos/css-3.svg"></code>
 
 ## 🛠️ My tools
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>VS Code</span><br><br>
-        <img height="32px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Git</span><br><br>
-        <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>GitHub</span><br><br>
-        <img height="32px" src="https://cdn.worldvectorlogo.com/logos/github-1.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>GitLab</span><br><br>
-        <img height="32px" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>PyPI</span><br><br>
-        <img height="32px" src="https://pypi.org/static/images/twitter.90915068.jpg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>Travis CI</span><br><br>
-        <img height="32px" src="https://cdn.worldvectorlogo.com/logos/travis-ci.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Overleaf</span><br><br>
-        <img height="32px" src="https://cdn.overleaf.com/img/ol-brand/overleaf_og_logo.png">
-      </td>
-      <td width="20%" align="center">
-        <span>Ubuntu</span><br><br>
-        <img height="32px" src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>RTD</span><br><br>
-        <img height="32px" src="https://pbs.twimg.com/profile_images/525686734760067072/OhsWgbsr.png">
-      </td>
-      <td width="20%" align="center">
-      </td>
-    </tr>
-  </tbody>
-</table>
+<code><img height="50" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/atom-4.svg"></code>
+<code><img height="50" src="https://cdn.svgporn.com/logos/git-icon.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/github-1.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg"></code>
+<code><img height="50" src="https://pypi.org/static/images/twitter.90915068.jpg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/travis-ci.svg"></code>
+<code><img height="50" src="https://cdn.overleaf.com/img/ol-brand/overleaf_og_logo.png"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg"></code>
+<code><img height="50" src="https://pbs.twimg.com/profile_images/525686734760067072/OhsWgbsr.png"></code>
 
 ## 🚀 My projects
 - 📈 **Productivity Tools**
