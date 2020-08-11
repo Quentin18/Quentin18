@@ -17,6 +17,7 @@ I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://
 
 ## 🌐 Programming languages
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/ruby.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/c-2975.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/latex.svg"></code>
@@ -33,6 +34,7 @@ I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/github-1.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg"></code>
 <code><img height="50" src="https://pypi.org/static/images/twitter.90915068.jpg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/rubygems.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/travis-ci.svg"></code>
 <code><img height="50" src="https://cdn.overleaf.com/img/ol-brand/overleaf_og_logo.png"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg"></code>
@@ -55,6 +57,7 @@ I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://
 
 - 💻 **Algorithmics**
 
+    * [astar-visualizer](https://github.com/Quentin18/astar-visualizer) - A* pathfinding visualizer in Ruby
     * [ABR](https://github.com/Quentin18/ABR) - binary search trees in C
     * [DFS](https://github.com/Quentin18/DFS) - Depth-First Search algorithm and applications in C
 
