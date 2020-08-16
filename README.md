@@ -80,7 +80,7 @@ I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://
 ![Waka Readme](https://github.com/Quentin18/Quentin18/workflows/Waka%20Readme/badge.svg)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-296604%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-464953%20Lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
