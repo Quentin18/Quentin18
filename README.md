@@ -80,21 +80,21 @@ I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://
 ![Waka Readme](https://github.com/Quentin18/Quentin18/workflows/Waka%20Readme/badge.svg)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-464953%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-464953%20Lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 362 Contributions in year 2020
+> 🏆 362 Contributions in the year 2020
  > 
-> 📦 Used 145.3 kB in GitHub's Storage 
+> 📦 145.3 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 16 Public Repositories 
+> 📜 16 Public repositories
  > 
-> 🔑 5 Owned Private Repositories 
+> 🔑 5 Private repositories 
 
-**I'm an early 🐤** 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning    44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.94% 
@@ -103,7 +103,7 @@ I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://
 🌙 Night      79 commits     █████░░░░░░░░░░░░░░░░░░░░   23.24%
 
 ```
-📅 **I'm Most Productive on Saturdays** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday       54 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.88% 
@@ -117,28 +117,28 @@ Sunday       32 commits     ██░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: Europe/Paris
+⌚︎ Time zone: Europe/Paris
 
-💬 Languages: 
-Ruby                     19 hrs 14 mins      ████████████████░░░░░░░░░   65.07% 
-HTML                     7 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-Markdown                 1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.68% 
-CSS                      36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.06% 
-Other                    28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.58%
+💬 Programming Languages: 
+Ruby                     16 hrs 28 mins      █████████████░░░░░░░░░░░░   55.18% 
+HTML                     10 hrs 19 mins      ████████░░░░░░░░░░░░░░░░░   34.61% 
+Markdown                 1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
+CSS                      44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5% 
+Other                    30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.69%
 
-🔥 Editors: 
-Atom                     19 hrs 2 mins       ████████████████░░░░░░░░░   64.38% 
-VS Code                  10 hrs 32 mins      █████████░░░░░░░░░░░░░░░░   35.62%
+🔥 Code Editors: 
+Atom                     17 hrs 35 mins      ██████████████░░░░░░░░░░░   58.94% 
+VS Code                  12 hrs 15 mins      ██████████░░░░░░░░░░░░░░░   41.06%
 
-💻 Operating Systems: 
-Windows                  29 hrs 34 mins      █████████████████████████   100.0%
+💻 Operating System: 
+Windows                  29 hrs 51 mins      █████████████████████████   100.0%
 
 ```
 
-**I mostly code in Python** 
+**I Mostly Code in Python** 
 
 ```text
 Python                   12 repos            ███████████████░░░░░░░░░░   63.16% 
