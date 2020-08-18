@@ -15,6 +15,8 @@ I'm 20 years old and I'm studying [applied mathematics and computer science](htt
 
 I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://en.wikipedia.org/wiki/Saxhorn) since I was 5 years old.
 
+My website (in french): https://quentin18.github.io/
+
 ## 🌐 Programming languages
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/ruby.svg"></code>
@@ -43,7 +45,7 @@ I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://
 ## 🚀 My projects
 - 📈 **Productivity Tools**
 
-    * [pywebdoc](https://github.com/Quentin18/pywebdoc) - a CLI application to quickly open web documentation about Python
+    * [Pywebdoc](https://github.com/Quentin18/pywebdoc) - a CLI application to quickly open web documentation about Python
 
 - ✉ **Communication**
 
@@ -57,7 +59,7 @@ I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://
 
 - 💻 **Algorithmics**
 
-    * [astar-visualizer](https://github.com/Quentin18/astar-visualizer) - A* pathfinding visualizer in Ruby
+    * [A* Visualizer](https://github.com/Quentin18/astar-visualizer) - A* pathfinding visualizer in Ruby
     * [ABR](https://github.com/Quentin18/ABR) - binary search trees in C
     * [DFS](https://github.com/Quentin18/DFS) - Depth-First Search algorithm and applications in C
 
@@ -75,6 +77,8 @@ I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://
 - 🎹 **Music**
 
     * [Synthesizer MIPS](https://github.com/Quentin18/Synthesizer-MIPS) - a musical synthesizer in MIPS assembly language
+
+🔗 Contribution to [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code): [21 Game in Ruby](http://rosettacode.org/wiki/21_Game#Ruby) ([gist](https://gist.github.com/Quentin18/095ad051a84028c7ca65762c07730ef8))
 
 ## 📊 My stats
 ![Waka Readme](https://github.com/Quentin18/Quentin18/workflows/Waka%20Readme/badge.svg)
