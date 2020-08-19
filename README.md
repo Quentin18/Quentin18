@@ -59,6 +59,7 @@ My website (in french): https://quentin18.github.io/
 
 - 💻 **Algorithmics**
 
+    * [Pathfinding in Ruby](https://github.com/Quentin18/pathfinding.rb) - a pathfinding library in Ruby based on A* algorithm
     * [A* Visualizer](https://github.com/Quentin18/astar-visualizer) - A* pathfinding visualizer in Ruby
     * [ABR](https://github.com/Quentin18/ABR) - binary search trees in C
     * [DFS](https://github.com/Quentin18/DFS) - Depth-First Search algorithm and applications in C
