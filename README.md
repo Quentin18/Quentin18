@@ -85,19 +85,19 @@ My website (in french): https://quentin18.github.io/
 ![Waka Readme](https://github.com/Quentin18/Quentin18/workflows/Waka%20Readme/badge.svg)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-297246%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-465761%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 367 Contributions in the year 2020
+> 🏆 367 Contributions in the Year 2020
  > 
 > 📦 145.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 17 Public repositories
+> 📜 17 Public Repositories
  > 
-> 🔑 5 Private repositories 
+> 🔑 5 Private Repositories 
 
 **I'm an Early 🐤** 
 
@@ -122,10 +122,10 @@ Sunday       32 commits     ██░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spend My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time zone: Europe/Paris
+⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
 HTML                     10 hrs 19 mins      █████████████░░░░░░░░░░░░   51.7% 
@@ -134,7 +134,7 @@ CSS                      44 mins             █░░░░░░░░░░�
 Markdown                 40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.38% 
 Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
 
-🔥 Code Editors: 
+🔥 Editors: 
 VS Code                  11 hrs 22 mins      ██████████████░░░░░░░░░░░   56.94% 
 Atom                     8 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   43.06%
 
