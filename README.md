@@ -85,7 +85,7 @@ My website (in french): https://quentin18.github.io/
 ![Waka Readme](https://github.com/Quentin18/Quentin18/workflows/Waka%20Readme/badge.svg)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-466986%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-465761%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
