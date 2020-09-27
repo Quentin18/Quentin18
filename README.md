@@ -86,7 +86,7 @@ My website (in french): https://quentin18.github.io/
 ![Waka Readme](https://github.com/Quentin18/Quentin18/workflows/Waka%20Readme/badge.svg)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-465787%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-467152%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -129,13 +129,16 @@ Sunday       32 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   1 hr 52 mins        █████████████████████████   100.0%
+C++                      50 mins             ████████████░░░░░░░░░░░░░   49.83% 
+Python                   50 mins             ████████████░░░░░░░░░░░░░   49.69% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3% 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18%
 
 🔥 Editors: 
-VS Code                  1 hr 52 mins        █████████████████████████   100.0%
+VS Code                  1 hr 42 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    1 hr 52 mins        █████████████████████████   100.0%
+Windows                  1 hr 42 mins        █████████████████████████   100.0%
 
 ```
 
