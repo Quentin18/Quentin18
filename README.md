@@ -44,13 +44,10 @@ My website (in french): https://quentin18.github.io/
 <code><img height="50" src="https://pbs.twimg.com/profile_images/525686734760067072/OhsWgbsr.png"></code>
 
 ## 🚀 My projects
-- 📈 **Productivity Tools**
-
-    * [Pywebdoc](https://github.com/Quentin18/pywebdoc) - a CLI application to quickly open web documentation about Python
-
-- ✉ **Communication**
+- 📈 **Productivity tools**
 
     * [Mail Sender SU](https://github.com/Quentin18/Mail-Sender-Sorbonne-Universite) - mail sending application in Python using Click and tkinter
+    * [Pywebdoc](https://github.com/Quentin18/pywebdoc) - a CLI application to quickly open web documentation about Python
 
 - 🔢 **Mathematics**
 
@@ -60,6 +57,7 @@ My website (in french): https://quentin18.github.io/
 
 - 💻 **Algorithmics**
 
+    * [fsmdot](https://github.com/Quentin18/fsmdot) - implementation of finite-state machines and exportation to dot format
     * [Pathfinding in Ruby](https://github.com/Quentin18/pathfinding.rb) - a pathfinding library in Ruby based on A* algorithm
     * [A* Visualizer](https://github.com/Quentin18/astar-visualizer) - A* pathfinding visualizer in Ruby
     * [ABR](https://github.com/Quentin18/ABR) - binary search trees in C
