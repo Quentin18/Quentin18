@@ -88,6 +88,8 @@ My website (in french): https://quentin18.github.io/
 
 **🐱 My Github Data** 
 
+> 🏆 413 Contributions in the Year 2020
+ > 
 > 📦 145.5 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
