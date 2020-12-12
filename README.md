@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Quentin Deschamps!
+## 👋 Hi there, I'm Quentin Deschamps!
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Quentin18/)](https://github.com/Quentin18/)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://gitlab.lip6.fr/deschampsq/)](https://gitlab.lip6.fr/deschampsq/)
@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quentindeschamps18@gmail.com)](mailto:quentindeschamps18@gmail.com)
 
 
-## 🧐 About me
+### 🧐 About me
 I'm 20 years old and I'm studying [applied mathematics and computer science](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique) in an engineering school in Paris.
 <!-- I'm currently looking for an internship 🔎. -->
 
@@ -18,32 +18,32 @@ I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://
 
 My website (in french): https://quentin18.github.io/
 
-## 🌐 Programming languages
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/ruby.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/c-2975.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/latex.svg"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/r-lang.svg"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Fortran.png"></code>
-<code><img height="50" src="https://cdn.svgporn.com/logos/html-5.svg"></code>
-<code><img height="50" src="https://cdn.svgporn.com/logos/css-3.svg"></code>
+### 🌐 Programming languages
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/ruby.svg"></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/c-2975.svg"></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/latex.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/r-lang.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Fortran.png"></code>
+<code><img height="30" src="https://cdn.svgporn.com/logos/html-5.svg"></code>
+<code><img height="30" src="https://cdn.svgporn.com/logos/css-3.svg"></code>
 
-## 🛠️ My tools
-<code><img height="50" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/atom-4.svg"></code>
-<code><img height="50" src="https://cdn.svgporn.com/logos/git-icon.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/github-1.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg"></code>
-<code><img height="50" src="https://pypi.org/static/images/twitter.90915068.jpg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/rubygems.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/travis-ci.svg"></code>
-<code><img height="50" src="https://cdn.overleaf.com/img/ol-brand/overleaf_og_logo.png"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg"></code>
-<code><img height="50" src="https://pbs.twimg.com/profile_images/525686734760067072/OhsWgbsr.png"></code>
+### 🛠️ My tools
+<code><img height="30" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/atom-4.svg"></code>
+<code><img height="30" src="https://cdn.svgporn.com/logos/git-icon.svg"></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg"></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg"></code>
+<code><img height="30" src="https://pypi.org/static/images/twitter.90915068.jpg"></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/rubygems.svg"></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/travis-ci.svg"></code>
+<code><img height="30" src="https://cdn.overleaf.com/img/ol-brand/overleaf_og_logo.png"></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg"></code>
+<code><img height="30" src="https://pbs.twimg.com/profile_images/525686734760067072/OhsWgbsr.png"></code>
 
-## 🚀 My projects
+### 🚀 My projects
 - 📈 **Productivity tools**
 
     * [Mail Sender SU](https://github.com/Quentin18/Mail-Sender-Sorbonne-Universite) - mail sending application in Python using Click and tkinter
@@ -57,7 +57,7 @@ My website (in french): https://quentin18.github.io/
 
 - 💻 **Algorithmics**
 
-    * [fsmdot](https://github.com/Quentin18/fsmdot) - implementation of finite-state machines and exportation to dot format
+    * [Fsmdot](https://github.com/Quentin18/fsmdot) - implementation of finite-state machines and exportation to dot format
     * [Pathfinding in Ruby](https://github.com/Quentin18/pathfinding.rb) - a pathfinding library in Ruby based on A* algorithm
     * [A* Visualizer](https://github.com/Quentin18/astar-visualizer) - A* pathfinding visualizer in Ruby
     * [ABR](https://github.com/Quentin18/ABR) - binary search trees in C
@@ -80,7 +80,7 @@ My website (in french): https://quentin18.github.io/
 
 🔗 Contribution to [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code): [21 Game in Ruby](http://rosettacode.org/wiki/21_Game#Ruby) ([gist](https://gist.github.com/Quentin18/095ad051a84028c7ca65762c07730ef8))
 
-## 📊 My stats
+### 📊 My stats
 ![Waka Readme](https://github.com/Quentin18/Quentin18/workflows/Waka%20Readme/badge.svg)
 
 <!--START_SECTION:waka-->
