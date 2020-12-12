@@ -10,11 +10,11 @@
 I'm 20 years old and I'm studying [applied mathematics and computer science](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique) in an engineering school in Paris.
 <!-- I'm currently looking for an internship 🔎. -->
 
-- 🎓My school - [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr)
+- 🎓 My school - [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr)
 - 🔥 My favorite programming language - **Python**
 - ⌨ My favorite text editor - **Visual Studio Code**
 
-I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://en.wikipedia.org/wiki/Saxhorn) since I was 5 years old.
+I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://en.wikipedia.org/wiki/Saxhorn) since I was 5 years old. I play the [euphonium](https://en.wikipedia.org/wiki/Euphonium) too.
 
 My website (in french): https://quentin18.github.io/
 
