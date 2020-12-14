@@ -84,19 +84,19 @@ My website (in french): https://quentin18.github.io/
 ![Waka Readme](https://github.com/Quentin18/Quentin18/workflows/Waka%20Readme/badge.svg)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-384240%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-384812%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 416 Contributions in the Year 2020
+> 🏆 429 Contributions in the Year 2020
  > 
 > 📦 120.8 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 19 Public Repositories 
+> 📜 20 Public Repositories 
  > 
-> 🔑 7 Private Repositories  
+> 🔑 6 Private Repositories  
 
 **I'm an Early 🐤** 
 
