@@ -96,7 +96,7 @@ My website (in french): https://quentin18.github.io/
  > 
 > 📜 19 Public Repositories 
  > 
-> 🔑 7 Private Repositories  
+> 🔑 8 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
