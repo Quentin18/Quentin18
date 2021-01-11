@@ -52,8 +52,9 @@ My website (in french): https://quentin18.github.io/
 - 🔢 **Mathematics**
 
     * [Affapy](https://gitlab.lip6.fr/hilaire/affapy) - a Python library for multiprecision Affine Arithmetic
-    * [Matplotlib fractals](https://github.com/Quentin18/Matplotlib-fractals) - a collection of fractals in Python using matplotlib
+    * [FFT - Fast Multiplication](https://github.com/Quentin18/fft-fast-multiplication) - implementation of Schönhage–Strassen algorithm in MATLAB and comparison to other multiplication algorithms
     * [Model-Developpement-Bacteries](https://github.com/Quentin18/Model-Developpement-Bacteries) - analysis of differential equations about bacteria development using Python
+    * [Matplotlib fractals](https://github.com/Quentin18/Matplotlib-fractals) - a collection of fractals in Python using matplotlib
 
 - 💻 **Algorithmics**
 
