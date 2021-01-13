@@ -91,7 +91,7 @@ My website (in french): https://quentin18.github.io/
 
 > 🏆 1 Contributions in the Year 2021
  > 
-> 📦 131.2 kB Used in Github's Storage 
+> 📦 131.3 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
