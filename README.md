@@ -7,7 +7,7 @@
 
 
 ### 🧐 About me
-I'm 20 years old and I'm studying [applied mathematics and computer science](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique) in an engineering school in Paris.
+I'm 21 years old and I'm studying [applied mathematics and computer science](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique) in an engineering school in Paris.
 <!-- I'm currently looking for an internship 🔎. -->
 
 - 🎓 My school - [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr)
