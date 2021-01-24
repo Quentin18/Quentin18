@@ -64,10 +64,6 @@ My website (in french): https://quentin18.github.io/
     * [ABR](https://github.com/Quentin18/ABR) - binary search trees in C
     * [DFS](https://github.com/Quentin18/DFS) - Depth-First Search algorithm and applications in C
 
-- 🤖 **Robotics**
-
-    * [Line Track Designer](https://github.com/Quentin18/Line-Track-Designer) - a Python library to design line following tracks for robots
-
 - 🎲 **Games**
 
     * [Quoridor Online](https://github.com/Quentin18/Quoridor-Online) - client and server to play the strategy board game *Quoridor* using pygame
@@ -75,8 +71,10 @@ My website (in french): https://quentin18.github.io/
     * [Ladders Game](https://github.com/Quentin18/Ladders-Game) - a variation of the game *Snakes and Ladders* in Python
     * [Sherlock 13](https://github.com/Quentin18/Sherlock13) - an online game in C language with SDL2 graphics for 4 players
 
-- 🎹 **Music**
+- 📌 **Others**
 
+    * [Ecosystem simulation](https://github.com/Quentin18/ecosystem) - simulation of a simple ecosystem in C++ using SFML
+    * [Line Track Designer](https://github.com/Quentin18/Line-Track-Designer) - a Python library to design line following tracks for robots
     * [Synthesizer MIPS](https://github.com/Quentin18/Synthesizer-MIPS) - a musical synthesizer in MIPS assembly language
 
 🔗 Contribution to [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code): [21 Game in Ruby](http://rosettacode.org/wiki/21_Game#Ruby) ([gist](https://gist.github.com/Quentin18/095ad051a84028c7ca65762c07730ef8))
