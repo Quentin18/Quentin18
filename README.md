@@ -47,6 +47,7 @@ My website (in french): https://quentin18.github.io/
 - 🔢 **Mathematics**
 
     * [Affapy](https://gitlab.lip6.fr/hilaire/affapy) - a Python library for multiprecision Affine Arithmetic
+    * [Modular arithmetic](https://github.com/Quentin18/modular-arithmetic) - implementation of modular arithmetic in C for integers and polynomials
     * [FFT - Fast Multiplication](https://github.com/Quentin18/fft-fast-multiplication) - implementation of Schönhage–Strassen algorithm in MATLAB
     * [Model-Developpement-Bacteries](https://github.com/Quentin18/Model-Developpement-Bacteries) - analysis of differential equations about bacteria development using Python
     * [Ulam sequences](https://github.com/Quentin18/ulam-sequences) - resolution of the problem 167 of *Project Euler* about Ulam sequences
