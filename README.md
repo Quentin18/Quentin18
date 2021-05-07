@@ -21,12 +21,10 @@ My website (in french): https://quentin18.github.io/
 ### 🌐 Programming languages
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"></code>
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/ruby.svg"></code>
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/c-2975.svg"></code>
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/latex.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/r-lang.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Fortran.png"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/html-5.svg"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/css-3.svg"></code>
 
