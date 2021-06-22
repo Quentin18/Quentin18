@@ -89,7 +89,7 @@ My website (in french): https://quentin18.github.io/
 
 > 🏆 219 Contributions in the Year 2021
  > 
-> 📦 168.5 kB Used in Github's Storage 
+> 📦 168.1 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -149,7 +149,7 @@ Assembly                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/06/2021
+ Last Updated on 22/06/2021
 <!--END_SECTION:waka-->
 
 <details>
