@@ -1,12 +1,20 @@
 ## 👋 Hi there, I'm Quentin Deschamps!
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Quentin18/)](https://github.com/Quentin18/)
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://gitlab.lip6.fr/deschampsq/)](https://gitlab.lip6.fr/deschampsq/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quentin-deschamps18/)](https://www.linkedin.com/in/quentin-deschamps18/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quentindeschamps18@gmail.com)](mailto:quentindeschamps18@gmail.com)
-
+<a target="_blank" href="https://www.linkedin.com/in/quentin-deschamps18/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a target="_blank" href="mailto:quentindeschamps18@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a target="_blank" href="https://github.com/Quentin18/">
+    <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a target="_blank" href="https://gitlab.lip6.fr/deschampsq/">
+    <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</a>
 
 ### 🧐 About me
+
 I'm 21 years old and I'm studying [applied mathematics and computer science](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique) in an engineering school in Paris.
 <!-- I'm currently looking for an internship 🔎. -->
 
@@ -19,29 +27,38 @@ I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://
 My website (in french): https://quentin18.github.io/
 
 ### 🌐 Programming languages
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"></code>
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/ruby.svg"></code>
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/latex.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/r-lang.svg"></code>
-<code><img height="30" src="https://cdn.svgporn.com/logos/html-5.svg"></code>
-<code><img height="30" src="https://cdn.svgporn.com/logos/css-3.svg"></code>
+
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
+<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
+<img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+
+### 📚 Frameworks and libraries
+
+<img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+<img alt="DjangoREST" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
+<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
 
 ### 🛠️ My tools
-<code><img height="30" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/atom-4.svg"></code>
-<code><img height="30" src="https://cdn.svgporn.com/logos/git-icon.svg"></code>
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg"></code>
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg"></code>
-<code><img height="30" src="https://pypi.org/static/images/twitter.90915068.jpg"></code>
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/rubygems.svg"></code>
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/travis-ci.svg"></code>
-<code><img height="30" src="https://cdn.overleaf.com/img/ol-brand/overleaf_og_logo.png"></code>
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg"></code>
-<code><img height="30" src="https://pbs.twimg.com/profile_images/525686734760067072/OhsWgbsr.png"></code>
+
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img alt="TravisCI" src="https://img.shields.io/badge/travisci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white"/>
+<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
 
 ### 🚀 My projects
+
 - 🔢 **Mathematics**
 
     * [Affapy](https://gitlab.lip6.fr/hilaire/affapy) - a Python library for multiprecision Affine Arithmetic
@@ -80,6 +97,7 @@ My website (in french): https://quentin18.github.io/
 🔗 Contribution to [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code): [21 Game in Ruby](http://rosettacode.org/wiki/21_Game#Ruby) ([gist](https://gist.github.com/Quentin18/095ad051a84028c7ca65762c07730ef8))
 
 ### 📊 My stats
+
 ![Waka Readme](https://github.com/Quentin18/Quentin18/workflows/Waka%20Readme/badge.svg)
 
 <!--START_SECTION:waka-->
