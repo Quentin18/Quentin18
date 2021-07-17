@@ -53,7 +53,7 @@ My website (in french): https://quentin18.github.io/
     <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
-### 🛠️ My tools
+### 🛠️ Tools
 
 <p align="center">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
