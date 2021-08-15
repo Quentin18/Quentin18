@@ -109,7 +109,7 @@ My website (in french): https://quentin18.github.io/
 
 > 🏆 222 Contributions in the Year 2021
  > 
-> 📦 170.1 kB Used in Github's Storage 
+> 📦 170.2 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -172,7 +172,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2021
+ Last Updated on 15/08/2021
 <!--END_SECTION:waka-->
 
 <details>
