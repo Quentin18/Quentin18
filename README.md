@@ -100,6 +100,16 @@ My website (in french): https://quentin18.github.io/
 
 ### 📊 My stats
 
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+
+<p align = "center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Quentin18&hide=prs,issues,contribs&include_all_commits=true&show_icons=true&theme=radical" alt="Quentin18's github stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quentin18&layout=compact&theme=radical" />
+</p>
+
+<details>
+<summary>WakaTime stats</summary>
+
 ![Waka Readme](https://github.com/Quentin18/Quentin18/workflows/Waka%20Readme/badge.svg)
 
 <!--START_SECTION:waka-->
@@ -176,12 +186,6 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
  Last Updated on 20/01/2022
 <!--END_SECTION:waka-->
 
-<details>
-<summary>GitHub stats</summary>
-  <p align = "center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Quentin18&hide=prs,issues,contribs&include_all_commits=true&show_icons=true&theme=radical" alt="Quentin18's github stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quentin18&layout=compact&theme=radical" />
-  </p>
 </details>
 
 ---
