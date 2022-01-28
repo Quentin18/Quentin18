@@ -90,6 +90,10 @@ My website (in french): https://quentin18.github.io/
     * [Newpapers](https://quentin18.github.io/newspapers/) - determining the political orientation of newspapers through quotes analysis
     * [PGA Tour Data Analysis](https://quentin18.github.io/projects/pga-tour) - data analysis of PGA golfers statistics between 2010 and 2020
 
+- ⚡ **HPC**
+
+    * [Exact Cover Parallel](https://github.com/Quentin18/exact-cover-parallel) - parallelization of the *Exact cover* problem using MPI and OpenMP
+
 - 🔢 **Mathematics**
 
     * [Affapy](https://gitlab.lip6.fr/hilaire/affapy) - a Python library for multiprecision Affine Arithmetic
@@ -107,7 +111,7 @@ My website (in french): https://quentin18.github.io/
     * [ABR](https://github.com/Quentin18/ABR) - binary search trees in C
     * [DFS](https://github.com/Quentin18/DFS) - Depth-First Search algorithm and applications in C
 
-- 📈 **Productivity tools**
+- 🛠 **Productivity tools**
 
     * [Mail Sender SU](https://github.com/Quentin18/Mail-Sender-Sorbonne-Universite) - mail sending application in Python using Click and tkinter
     * [Pywebdoc](https://github.com/Quentin18/pywebdoc) - a CLI application to quickly open web documentation about Python
