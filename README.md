@@ -80,6 +80,16 @@ My website (in french): https://quentin18.github.io/
 
 ### 🚀 My projects
 
+- 🤖 **Machine Learning**
+
+    * [Road Segmentation](https://github.com/Quentin18/road-segmentation) - segmentation of satellite images by detecting roads using CNNs
+    * [Higgs Boson challenge](https://github.com/Quentin18/higgs-boson-challenge) - binary classification using regression models to predict whether an event corresponds to the decayment of a Higgs boson or not
+
+- 📈 **Data analysis**
+
+    * [Newpapers](https://quentin18.github.io/newspapers/) - determining the political orientation of newspapers through quotes analysis
+    * [PGA Tour Data Analysis](https://quentin18.github.io/projects/pga-tour) - data analysis of PGA golfers statistics between 2010 and 2020
+
 - 🔢 **Mathematics**
 
     * [Affapy](https://gitlab.lip6.fr/hilaire/affapy) - a Python library for multiprecision Affine Arithmetic
