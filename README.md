@@ -22,8 +22,6 @@ I'm 22 years old and I'm studying [applied mathematics and computer science](htt
 
 I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://en.wikipedia.org/wiki/Saxhorn) since I was 5 years old. I play the [euphonium](https://en.wikipedia.org/wiki/Euphonium) too.
 
-My website (in french): https://quentin18.github.io/
-
 ### 👩‍💻 Programming languages
 
 <p>
@@ -46,6 +44,7 @@ My website (in french): https://quentin18.github.io/
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
     <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
     <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
+    <img alt="PyTorchLightning" src="https://img.shields.io/badge/PyTorchLightning-792EE5?style=for-the-badge&logo=PyTorchLightning&logoColor=white" />
     <img alt="scikit-learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
     <img alt="scipy" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" />
 </p>
@@ -57,6 +56,12 @@ My website (in french): https://quentin18.github.io/
     <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
     <img alt="DjangoREST" src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
     <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+</p>
+
+### ☁ Cloud
+
+<p>
+    <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
 ### 🛠️ Tools
@@ -74,6 +79,7 @@ My website (in french): https://quentin18.github.io/
 ### 💻 OS
 
 <p>
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
