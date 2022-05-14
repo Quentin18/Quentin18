@@ -94,7 +94,7 @@ I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://
 - 📈 **Data analysis**
 
     * [Newpapers](https://quentin18.github.io/newspapers/) - determining the political orientation of newspapers through quotes analysis
-    * [PGA Tour Data Analysis](https://quentin18.github.io/projects/pga-tour) - data analysis of PGA golfers statistics between 2010 and 2020
+    * [PGA Tour Data Analysis](https://quentin18.github.io/pga-tour/) - data analysis of PGA golfers statistics between 2010 and 2020
 
 - ⚡ **HPC**
 
