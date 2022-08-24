@@ -152,7 +152,7 @@ I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://
 ![Waka Readme](https://github.com/Quentin18/Quentin18/workflows/Waka%20Readme/badge.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C668%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C668%20hrs%2043%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-922%20Thousand%20lines%20of%20code-blue)
 
@@ -224,7 +224,7 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2022 02:27:49 UTC
+ Last Updated on 24/08/2022 02:30:14 UTC
 <!--END_SECTION:waka-->
 
 </details>
