@@ -152,7 +152,7 @@ I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://
 ![Waka Readme](https://github.com/Quentin18/Quentin18/workflows/Waka%20Readme/badge.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C670%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C670%20hrs%2027%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-922%20Thousand%20lines%20of%20code-blue)
 
@@ -160,7 +160,7 @@ I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://
 
 > 🏆 17 Contributions in the Year 2022
  > 
-> 📦 560.6 kB Used in GitHub's Storage 
+> 📦 560.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -197,16 +197,17 @@ Sunday       138 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   2 hrs 31 mins       ████████████████████████░   98.49% 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12% 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+Python                   2 hrs 56 mins       ████████████████████████░   98.63% 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.96% 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
 
 🔥 Editors: 
-VS Code                  2 hrs 33 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 59 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    2 hrs 33 mins       █████████████████████████   100.0%
+Linux                    2 hrs 59 mins       █████████████████████████   100.0%
 
 ```
 
@@ -223,7 +224,7 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2022 02:29:17 UTC
+ Last Updated on 26/08/2022 02:35:36 UTC
 <!--END_SECTION:waka-->
 
 </details>
