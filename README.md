@@ -152,7 +152,7 @@ I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://
 ![Waka Readme](https://github.com/Quentin18/Quentin18/workflows/Waka%20Readme/badge.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C891%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C897%20hrs%2022%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-925%20Thousand%20lines%20of%20code-blue)
 
@@ -168,6 +168,49 @@ I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://
  > 
 > 🔑 21 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    55 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.29% 
+🌆 Daytime    299 commits    ██████████░░░░░░░░░░░░░░░   39.66% 
+🌃 Evening    274 commits    █████████░░░░░░░░░░░░░░░░   36.34% 
+🌙 Night      126 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.71%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       112 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.85% 
+Tuesday      67 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.89% 
+Wednesday    88 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.67% 
+Thursday     106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.06% 
+Friday       129 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.11% 
+Saturday     136 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.04% 
+Sunday       116 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+Python                   13 hrs 23 mins      ██████████████░░░░░░░░░░░   58.65% 
+Jupyter                  8 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   38.67% 
+YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.87% 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.84% 
+Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.56%
+
+🔥 Editors: 
+IntelliJ                 22 hrs 49 mins      █████████████████████████   100.0%
+
+💻 Operating System: 
+Linux                    22 hrs 49 mins      █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -181,7 +224,7 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2022 02:10:40 UTC
+ Last Updated on 11/11/2022 02:08:42 UTC
 <!--END_SECTION:waka-->
 
 </details>
