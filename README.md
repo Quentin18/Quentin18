@@ -152,7 +152,7 @@ I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://
 ![Waka Readme](https://github.com/Quentin18/Quentin18/workflows/Waka%20Readme/badge.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C993%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C001%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-924%20Thousand%20lines%20of%20code-blue)
 
@@ -160,7 +160,7 @@ I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://
 
 > 🏆 23 Contributions in the Year 2022
  > 
-> 📦 560.7 kB Used in GitHub's Storage 
+> 📦 560.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -197,17 +197,17 @@ Sunday       118 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   12 hrs 9 mins       ████████████████░░░░░░░░░   67.33% 
-Java                     4 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   26.64% 
-Markdown                 29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.73% 
-Text                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.6% 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81%
+Python                   15 hrs 7 mins       ████████████████░░░░░░░░░   65.24% 
+Java                     5 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   23.27% 
+JSON                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.12% 
+Markdown                 43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.15% 
+Jupyter                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9%
 
 🔥 Editors: 
-IntelliJ                 18 hrs 4 mins       █████████████████████████   100.0%
+IntelliJ                 23 hrs 11 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    18 hrs 4 mins       █████████████████████████   100.0%
+Linux                    23 hrs 11 mins      █████████████████████████   100.0%
 
 ```
 
@@ -224,7 +224,7 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/12/2022 01:44:59 UTC
+ Last Updated on 09/12/2022 01:48:38 UTC
 <!--END_SECTION:waka-->
 
 </details>
