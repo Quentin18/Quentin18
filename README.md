@@ -14,7 +14,8 @@
 ### 👨🏻‍💻 About Me
 
 - 💼 I'm currently Data Scientist & Data Engineer at Yanport.
-- 🎓 I've studied [Applied Mathematics & Computer Science](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique) at [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr).
+- 🎓 I've studied Data Science at [EPFL](https://www.epfl.ch/fr/) in Lausanne 🇨🇭.
+- 🎓 I've studied Applied Mathematics & Computer Science at [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr) in Paris 🇫🇷.
 - 🏠 I'm living in Bourges 🇫🇷.
 - 🎵 I'm also passionate about music. I play the [saxhorn](https://en.wikipedia.org/wiki/Saxhorn), the [euphonium](https://en.wikipedia.org/wiki/Euphonium) and the [tuba](https://en.wikipedia.org/wiki/Tuba).
 
