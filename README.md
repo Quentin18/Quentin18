@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi there, I'm Quentin Deschamps! </h1>
+<h1 align="center">Hi, I'm Quentin Deschamps <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30></h1>
 
 <p align="center">
     <a target="_blank" href="https://www.linkedin.com/in/quentin-deschamps18/">
@@ -11,32 +11,32 @@
 
 <!-- Badges: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
-### 🧐 About me
+### 👨🏻‍💻 About Me
 
-I'm 22 years old and I'm studying [applied mathematics and computer science](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique) in an engineering school in Paris.
-<!-- I'm currently looking for an internship 🔎. -->
+- 💼 I'm currently Data Scientist & Data Engineer at Yanport.
+- 🎓 I've studied [Applied Mathematics & Computer Science](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique) at [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr).
+- 🏠 I'm living in Bourges 🇫🇷.
+- 🎵 I'm also passionate about music. I play the [saxhorn](https://en.wikipedia.org/wiki/Saxhorn), the [euphonium](https://en.wikipedia.org/wiki/Euphonium) and the [tuba](https://en.wikipedia.org/wiki/Tuba).
 
-- 🎓 My school - [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr)
-- 🔥 My favorite programming language - **Python**
-- ⌨ My favorite text editor - **Visual Studio Code**
+---
 
-I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://en.wikipedia.org/wiki/Saxhorn) since I was 5 years old. I play the [euphonium](https://en.wikipedia.org/wiki/Euphonium) too.
+### 🛠 Tech Stack
 
-### 👩‍💻 Programming languages
+#### 👩‍💻 Programming Languages
 
 <p>
-    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-    <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
-    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
     <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-    <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/>
+    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
     <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+    <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
+    <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/>
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### 🤖 Data science
+#### 🤖 Data Science
 
 <p>
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
@@ -49,34 +49,53 @@ I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://
     <img alt="scipy" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" />
 </p>
 
-### 🌐 Web development
+#### 🌐 Web Development
 
 <p>
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
     <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
     <img alt="DjangoREST" src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 </p>
 
-### ☁ Cloud
+#### ☁ Cloud
 
 <p>
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
-### 🛠️ Tools
+#### ⚡️ Database
 
 <p>
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+    <img alt="Cassandra" src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white">
+    <img alt="Elastic Search" src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
+    <img alt="RabbitMQ" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white">
+</p>
+
+#### 🛠️ Tools
+
+<p>
     <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     <img alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
     <img alt="TravisCI" src="https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white"/>
     <img alt="PyPI" src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />
     <img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" />
+    <img alt="CMake" src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-### 💻 OS
+#### ⌨️ IDE
+
+<p>
+    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+    <img alt="CLion" src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white"/>
+    <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+    <img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+</p>
+
+#### 💻 OS
 
 <p>
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -84,14 +103,16 @@ I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
-### 🚀 My projects
+---
+
+### 🚀 My Projects
 
 - 🤖 **Machine Learning**
 
     * [Road Segmentation](https://github.com/Quentin18/road-segmentation) - segmentation of satellite images by detecting roads using CNNs
     * [Higgs Boson challenge](https://github.com/Quentin18/higgs-boson-challenge) - binary classification using regression models to predict whether an event corresponds to the decayment of a Higgs boson or not
 
-- 📈 **Data analysis**
+- 📈 **Data Analysis**
 
     * [Newpapers](https://quentin18.github.io/newspapers/) - determining the political orientation of newspapers through quotes analysis
     * [PGA Tour Data Analysis](https://quentin18.github.io/pga-tour/) - data analysis of PGA golfers statistics between 2010 and 2020
@@ -117,7 +138,7 @@ I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://
     * [ABR](https://github.com/Quentin18/ABR) - binary search trees in C
     * [DFS](https://github.com/Quentin18/DFS) - Depth-First Search algorithm and applications in C
 
-- 🛠 **Productivity tools**
+- 🛠 **Productivity Tools**
 
     * [Mail Sender SU](https://github.com/Quentin18/Mail-Sender-Sorbonne-Universite) - mail sending application in Python using Click and tkinter
     * [Pywebdoc](https://github.com/Quentin18/pywebdoc) - a CLI application to quickly open web documentation about Python
@@ -137,7 +158,9 @@ I'm also passionate about music 🎵. I’ve been playing the [saxhorn](https://
 
 🔗 Contribution to [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code): [21 Game in Ruby](http://rosettacode.org/wiki/21_Game#Ruby) ([gist](https://gist.github.com/Quentin18/095ad051a84028c7ca65762c07730ef8))
 
-### 📊 My stats
+---
+
+### 📊 My Stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
