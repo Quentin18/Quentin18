@@ -113,14 +113,23 @@
     * [Road Segmentation](https://github.com/Quentin18/road-segmentation) - segmentation of satellite images by detecting roads using CNNs
     * [Higgs Boson challenge](https://github.com/Quentin18/higgs-boson-challenge) - binary classification using regression models to predict whether an event corresponds to the decayment of a Higgs boson or not
 
-- 📈 **Data Analysis**
+- 📈 **Data Science**
 
     * [Newpapers](https://quentin18.github.io/newspapers/) - determining the political orientation of newspapers through quotes analysis
     * [PGA Tour Data Analysis](https://quentin18.github.io/pga-tour/) - data analysis of PGA golfers statistics between 2010 and 2020
 
-- ⚡ **HPC**
+- ⚡ **High Performance Computing**
 
     * [Exact Cover Parallel](https://github.com/Quentin18/exact-cover-parallel) - parallelization of the *Exact cover* problem using MPI and OpenMP
+
+- 💻 **Algorithmics**
+
+  * [MCTS](https://github.com/Quentin18/mcts-cpp) - Monte Carlo Tree Search implementation in C++
+  * [Fsmdot](https://github.com/Quentin18/fsmdot) - implementation of finite-state machines and exportation to dot format
+  * [Pathfinding in Ruby](https://github.com/Quentin18/pathfinding.rb) - a pathfinding library in Ruby based on A* algorithm
+  * [A* Visualizer](https://github.com/Quentin18/astar-visualizer) - A* pathfinding visualizer in Ruby
+  * [ABR](https://github.com/Quentin18/ABR) - binary search trees in C
+  * [DFS](https://github.com/Quentin18/DFS) - Depth-First Search algorithm and applications in C
 
 - 🔢 **Mathematics**
 
@@ -131,25 +140,17 @@
     * [Ulam sequences](https://github.com/Quentin18/ulam-sequences) - resolution of the problem 167 of *Project Euler* about Ulam sequences
     * [Matplotlib fractals](https://github.com/Quentin18/Matplotlib-fractals) - a collection of fractals in Python using matplotlib
 
-- 💻 **Algorithmics**
+- 🎲 **Games**
 
-    * [Fsmdot](https://github.com/Quentin18/fsmdot) - implementation of finite-state machines and exportation to dot format
-    * [Pathfinding in Ruby](https://github.com/Quentin18/pathfinding.rb) - a pathfinding library in Ruby based on A* algorithm
-    * [A* Visualizer](https://github.com/Quentin18/astar-visualizer) - A* pathfinding visualizer in Ruby
-    * [ABR](https://github.com/Quentin18/ABR) - binary search trees in C
-    * [DFS](https://github.com/Quentin18/DFS) - Depth-First Search algorithm and applications in C
+  * [Quoridor Online](https://github.com/Quentin18/Quoridor-Online) - client and server to play the strategy board game *Quoridor* using pygame
+  * [1000 Bornes](https://github.com/Quentin18/1000-Bornes) - a pygame version of the famous French card game *1000 Bornes*
+  * [Ladders Game](https://github.com/Quentin18/Ladders-Game) - a variation of the game *Snakes and Ladders* in Python
+  * [Sherlock 13](https://github.com/Quentin18/Sherlock13) - an online game in C language with SDL2 graphics for 4 players
 
 - 🛠 **Productivity Tools**
 
     * [Mail Sender SU](https://github.com/Quentin18/Mail-Sender-Sorbonne-Universite) - mail sending application in Python using Click and tkinter
     * [Pywebdoc](https://github.com/Quentin18/pywebdoc) - a CLI application to quickly open web documentation about Python
-
-- 🎲 **Games**
-
-    * [Quoridor Online](https://github.com/Quentin18/Quoridor-Online) - client and server to play the strategy board game *Quoridor* using pygame
-    * [1000 Bornes](https://github.com/Quentin18/1000-Bornes) - a pygame version of the famous French card game *1000 Bornes*
-    * [Ladders Game](https://github.com/Quentin18/Ladders-Game) - a variation of the game *Snakes and Ladders* in Python
-    * [Sherlock 13](https://github.com/Quentin18/Sherlock13) - an online game in C language with SDL2 graphics for 4 players
 
 - 📌 **Others**
 
