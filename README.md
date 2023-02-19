@@ -222,15 +222,13 @@ Sunday          45 commits       ████░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   8 hrs 5 mins        ████████████████████████░   96.80 % 
-Text                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 8 hrs 21 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    8 hrs 21 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 ```
 
@@ -247,7 +245,7 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/02/2023 01:39:36 UTC
+ Last Updated on 19/02/2023 01:43:16 UTC
 <!--END_SECTION:waka-->
 
 </details>
