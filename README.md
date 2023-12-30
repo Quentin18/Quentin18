@@ -124,6 +124,7 @@
 
 - 💻 **Algorithmics**
 
+  * [Advent of Code](https://github.com/Quentin18/advent-of-code) - my Advent of Code solutions
   * [MCTS](https://github.com/Quentin18/mcts-cpp) - Monte Carlo Tree Search implementation in C++
   * [Fsmdot](https://github.com/Quentin18/fsmdot) - implementation of finite-state machines and exportation to dot format
   * [Pathfinding in Ruby](https://github.com/Quentin18/pathfinding.rb) - a pathfinding library in Ruby based on A* algorithm
