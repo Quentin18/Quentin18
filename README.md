@@ -167,7 +167,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <p align = "center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Quentin18&hide=prs,issues,contribs&include_all_commits=true&show_icons=true&theme=radical" alt="Quentin18's github stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Quentin18&hide=prs&include_all_commits=true&show_icons=true&theme=radical" alt="Quentin18's github stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quentin18&hide=html,css,scss,javascript,eC,jupyter notebook&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
