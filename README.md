@@ -143,6 +143,7 @@
 
 - 🎲 **Games**
 
+  * [Gymnasium 2048](https://github.com/Quentin18/gymnasium-2048) - gymnasium environment and game-playing agents for the Game 2048
   * [Quoridor Online](https://github.com/Quentin18/Quoridor-Online) - client and server to play the strategy board game *Quoridor* using pygame
   * [1000 Bornes](https://github.com/Quentin18/1000-Bornes) - a pygame version of the famous French card game *1000 Bornes*
   * [Ladders Game](https://github.com/Quentin18/Ladders-Game) - a variation of the game *Snakes and Ladders* in Python
