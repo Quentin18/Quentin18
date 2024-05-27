@@ -179,13 +179,15 @@
 ![Waka Readme](https://github.com/Quentin18/Quentin18/workflows/Waka%20Readme/badge.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C148%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C150%20hrs%2034%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 572.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 436 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -220,17 +222,17 @@ Sunday                   467 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   13 hrs 43 mins      ██████████████░░░░░░░░░░░   57.35 % 
-Jupyter                  5 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
-Java                     2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-JSON                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Python                   13 hrs 28 mins      ██████████████░░░░░░░░░░░   56.35 % 
+Jupyter                  5 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+Java                     2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+JSON                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
 Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 🔥 Editors: 
-Intellijidea             23 hrs 56 mins      █████████████████████████   100.00 % 
+Intellijidea             23 hrs 54 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    23 hrs 56 mins      █████████████████████████   100.00 % 
+Linux                    23 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -246,7 +248,7 @@ Tcl                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/05/2024 01:31:36 UTC
+ Last Updated on 27/05/2024 01:26:10 UTC
 <!--END_SECTION:waka-->
 
 </details>
