@@ -227,14 +227,13 @@ Sunday                   532 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Jupyter                  3 mins              ████████████████████████░   94.54 % 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -250,7 +249,7 @@ Tcl                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/02/2025 01:56:22 UTC
+ Last Updated on 23/02/2025 02:04:29 UTC
 <!--END_SECTION:waka-->
 
 </details>
