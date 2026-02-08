@@ -184,7 +184,7 @@
 ![Waka Readme](https://github.com/Quentin18/Quentin18/workflows/Waka%20Readme/badge.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C793%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C799%20hrs%2026%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.41%20million%20lines%20of%20code-blue?style=flat)
 
@@ -227,8 +227,8 @@ Sunday                   651 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   13 hrs 20 mins      █████████████░░░░░░░░░░░░   51.88 % 
-Jupyter                  7 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   29.32 % 
+Python                   13 hrs 24 mins      █████████████░░░░░░░░░░░░   52.09 % 
+Jupyter                  7 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   29.11 % 
 Java                     3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
 Text                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 TOML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
@@ -253,7 +253,7 @@ Tcl                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/02/2026 02:38:00 UTC
+ Last Updated on 08/02/2026 03:21:24 UTC
 <!--END_SECTION:waka-->
 
 </details>
