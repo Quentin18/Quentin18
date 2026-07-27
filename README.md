@@ -227,17 +227,17 @@ Sunday                   643 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   12 hrs 45 mins      ██████████████░░░░░░░░░░░   55.34 % 
-Jupyter                  3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Java                     2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-JSON                     2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-YAML                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+Python                   12 hrs 15 mins      ██████████████░░░░░░░░░░░   54.79 % 
+Jupyter                  3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Java                     2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+JSON                     2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+YAML                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
 
 🔥 Editors: 
-IntelliJ IDEA            23 hrs 2 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            22 hrs 22 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    23 hrs 2 mins       █████████████████████████   100.00 % 
+Linux                    22 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -253,7 +253,7 @@ Tcl                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 03:37:04 UTC
+ Last Updated on 27/07/2026 03:44:50 UTC
 <!--END_SECTION:waka-->
 
 </details>
