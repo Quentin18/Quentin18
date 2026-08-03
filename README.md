@@ -17,7 +17,7 @@
 - 🎓 I've studied Data Science at [EPFL](https://www.epfl.ch/fr/) in Lausanne 🇨🇭.
 - 🎓 I've studied Applied Mathematics & Computer Science at [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr) in Paris 🇫🇷.
 - 🏠 I'm living in Bourges 🇫🇷.
-- 🎵 I'm also passionate about music. I play the [saxhorn](https://en.wikipedia.org/wiki/Saxhorn), the [euphonium](https://en.wikipedia.org/wiki/Euphonium) and the [tuba](https://en.wikipedia.org/wiki/Tuba).
+- 🎵 I'm also passionate about music. I play the [tuba](https://en.wikipedia.org/wiki/Tuba), the [saxhorn](https://en.wikipedia.org/wiki/Saxhorn) and the [euphonium](https://en.wikipedia.org/wiki/Euphonium).
 
 ---
 
