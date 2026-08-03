@@ -148,6 +148,7 @@
 - 🎲 **Games**
 
   * [Gymnasium Search Race](https://github.com/Quentin18/gymnasium-search-race) - gymnasium environments for the Search Race and Mad Pod Racing CG puzzles
+  * [Gymnasium Mars Lander](https://github.com/Quentin18/gymnasium-mars-lander) - gymnasium environment for the Mars Lander CG puzzle
   * [Gymnasium 2048](https://github.com/Quentin18/gymnasium-2048) - gymnasium environment and game-playing agents for the Game 2048
   * [Quoridor Online](https://github.com/Quentin18/Quoridor-Online) - client and server to play the strategy board game *Quoridor* using pygame
   * [1000 Bornes](https://github.com/Quentin18/1000-Bornes) - a pygame version of the famous French card game *1000 Bornes*
