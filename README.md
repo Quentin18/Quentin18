@@ -228,17 +228,17 @@ Sunday                   645 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   6 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   39.83 % 
-Jupyter                  3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
-JSON                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-TOML                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-YAML                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Python                   4 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   39.25 % 
+Jupyter                  2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   22.59 % 
+TOML                     1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Markdown                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+YAML                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
 
 🔥 Editors: 
-IntelliJ IDEA            16 hrs 12 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            11 hrs 21 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    16 hrs 12 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -260,7 +260,7 @@ Tcl                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2026 02:29:09 UTC
+ Last Updated on 15/08/2026 01:41:17 UTC
 <!--END_SECTION:waka-->
 
 </details>
