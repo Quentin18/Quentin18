@@ -185,15 +185,15 @@
 ![Waka Readme](https://github.com/Quentin18/Quentin18/workflows/Waka%20Readme/badge.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C383%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C391%20hrs%201%20min-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.99%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.95%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 649.9 kB Used in GitHub's Storage 
  > 
-> 🏆 463 Contributions in the Year 2026
+> 🏆 465 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -204,21 +204,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5465 commits        ██████████░░░░░░░░░░░░░░░   38.25 % 
-🌆 Daytime                6551 commits        ███████████░░░░░░░░░░░░░░   45.85 % 
-🌃 Evening                1501 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-🌙 Night                  772 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+🌞 Morning                5406 commits        ██████████░░░░░░░░░░░░░░░   38.17 % 
+🌆 Daytime                6491 commits        ███████████░░░░░░░░░░░░░░   45.83 % 
+🌃 Evening                1494 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+🌙 Night                  772 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   2784 commits        █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
-Tuesday                  2560 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
-Wednesday                2404 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-Thursday                 1904 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Friday                   3108 commits        █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
-Saturday                 884 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-Sunday                   645 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+Monday                   2745 commits        █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+Tuesday                  2533 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+Wednesday                2381 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+Thursday                 1893 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Friday                   3082 commits        █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
+Saturday                 884 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Sunday                   645 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
@@ -228,17 +228,17 @@ Sunday                   645 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JSON                     5 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   29.36 % 
-Python                   5 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   28.54 % 
-Jupyter                  3 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
-Java                     3 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-YAML                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Python                   8 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   33.52 % 
+JSON                     8 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   33.20 % 
+Jupyter                  3 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Java                     3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+YAML                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 
 🔥 Editors: 
-IntelliJ IDEA            19 hrs 22 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            26 hrs 39 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    19 hrs 22 mins      █████████████████████████   100.00 % 
+Linux                    26 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -260,7 +260,7 @@ Tcl                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2026 01:47:45 UTC
+ Last Updated on 22/08/2026 01:37:07 UTC
 <!--END_SECTION:waka-->
 
 </details>
