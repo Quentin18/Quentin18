@@ -13,7 +13,7 @@
 
 ### 👨🏻‍💻 About Me
 
-- 💼 I'm currently Data Scientist & Data Engineer at [Yanport](https://www.yanport.com/).
+- 💼 I'm currently Lead Tech Data at [Yanport](https://www.yanport.com/).
 - 🎓 I've studied Data Science at [EPFL](https://www.epfl.ch/fr/) in Lausanne 🇨🇭.
 - 🎓 I've studied Applied Mathematics & Computer Science at [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr) in Paris 🇫🇷.
 - 🏠 I'm living in Bourges 🇫🇷.
