@@ -183,7 +183,7 @@
 ![Waka Readme](https://github.com/Quentin18/Quentin18/workflows/Waka%20Readme/badge.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C451%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C455%20hrs%2015%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.27%20million%20lines%20of%20code-blue?style=flat)
 
@@ -191,7 +191,7 @@
 
 > 📦 649.9 kB Used in GitHub's Storage 
  > 
-> 🏆 481 Contributions in the Year 2026
+> 🏆 483 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -202,21 +202,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5374 commits        █████████░░░░░░░░░░░░░░░░   37.38 % 
-🌆 Daytime                6468 commits        ███████████░░░░░░░░░░░░░░   44.99 % 
+🌞 Morning                5376 commits        █████████░░░░░░░░░░░░░░░░   37.38 % 
+🌆 Daytime                6469 commits        ███████████░░░░░░░░░░░░░░   44.98 % 
 🌃 Evening                1644 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
 🌙 Night                  892 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   2756 commits        █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
-Tuesday                  2487 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+Monday                   2756 commits        █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+Tuesday                  2487 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
 Wednesday                2367 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
 Thursday                 1924 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Friday                   3105 commits        █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
-Saturday                 1002 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-Sunday                   737 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Friday                   3105 commits        █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
+Saturday                 1005 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+Sunday                   737 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
 ```
 
 
@@ -226,17 +226,17 @@ Sunday                   737 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   5 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   33.23 % 
-Jupyter                  4 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   27.88 % 
-Java                     2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-YAML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-TOML                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Python                   5 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   33.18 % 
+Jupyter                  4 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   27.60 % 
+Java                     2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+YAML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+TOML                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
 
 🔥 Editors: 
-IntelliJ IDEA            16 hrs 40 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            16 hrs 50 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    16 hrs 40 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -258,7 +258,7 @@ Tcl                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026 04:00:39 UTC
+ Last Updated on 06/09/2026 04:03:44 UTC
 <!--END_SECTION:waka-->
 
 </details>
