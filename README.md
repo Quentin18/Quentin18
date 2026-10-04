@@ -183,7 +183,7 @@
 ![Waka Readme](https://github.com/Quentin18/Quentin18/workflows/Waka%20Readme/badge.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C536%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C540%20hrs%2043%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.40%20million%20lines%20of%20code-blue?style=flat)
 
@@ -226,17 +226,17 @@ Sunday                   740 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   10 hrs 43 mins      ████████████████░░░░░░░░░   62.19 % 
-Jupyter                  3 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
-Java                     1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-YAML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-GitIgnore file           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Python                   11 hrs 36 mins      ████████████████░░░░░░░░░   63.71 % 
+Jupyter                  3 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
+Java                     1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+YAML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+GitIgnore file           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 🔥 Editors: 
-IntelliJ IDEA            17 hrs 14 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            18 hrs 12 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    17 hrs 14 mins      █████████████████████████   100.00 % 
+Linux                    18 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -258,7 +258,7 @@ Tcl                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2026 04:53:40 UTC
+ Last Updated on 04/10/2026 05:22:46 UTC
 <!--END_SECTION:waka-->
 
 </details>
