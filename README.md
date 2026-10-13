@@ -185,13 +185,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-7%2C553%20hrs%2018%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.83%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.74%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 650.0 kB Used in GitHub's Storage 
  > 
-> 🏆 496 Contributions in the Year 2026
+> 🏆 498 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -202,21 +202,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6802 commits        ██████████░░░░░░░░░░░░░░░   40.13 % 
-🌆 Daytime                7554 commits        ███████████░░░░░░░░░░░░░░   44.57 % 
-🌃 Evening                1700 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-🌙 Night                  893 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+🌞 Morning                6657 commits        ██████████░░░░░░░░░░░░░░░   40.10 % 
+🌆 Daytime                7370 commits        ███████████░░░░░░░░░░░░░░   44.39 % 
+🌃 Evening                1683 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+🌙 Night                  893 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   3602 commits        █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
-Tuesday                  2973 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-Wednesday                2688 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-Thursday                 2203 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-Friday                   3734 commits        ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
-Saturday                 1009 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-Sunday                   740 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Monday                   3503 commits        █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
+Tuesday                  2899 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Wednesday                2624 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Thursday                 2176 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Friday                   3652 commits        ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+Saturday                 1009 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Sunday                   740 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 ```
 
 
@@ -226,17 +226,17 @@ Sunday                   740 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Jupyter                  7 hrs 33 mins       █████████████████░░░░░░░░   67.61 % 
-Python                   1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-TOML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-YAML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-Java                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Jupyter                  8 hrs 21 mins       ████████████████░░░░░░░░░   63.38 % 
+Python                   2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Java                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+TOML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+YAML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 
 🔥 Editors: 
-IntelliJ IDEA            11 hrs 10 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            13 hrs 12 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    11 hrs 10 mins      █████████████████████████   100.00 % 
+Linux                    13 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -258,7 +258,7 @@ Tcl                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2026 05:28:20 UTC
+ Last Updated on 13/10/2026 06:28:54 UTC
 <!--END_SECTION:waka-->
 
 </details>
