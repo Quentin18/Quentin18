@@ -183,7 +183,7 @@
 ![Waka Readme](https://github.com/Quentin18/Quentin18/workflows/Waka%20Readme/badge.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C602%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C605%20hrs%2043%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.03%20million%20lines%20of%20code-blue?style=flat)
 
@@ -226,17 +226,17 @@ Sunday                   740 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Jupyter                  13 hrs 20 mins      ████████████░░░░░░░░░░░░░   47.07 % 
-Python                   7 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
-Java                     6 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
-textmate                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Jupyter                  13 hrs 17 mins      ████████████░░░░░░░░░░░░░   47.06 % 
+Python                   7 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   26.04 % 
+Java                     6 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
+textmate                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 CSV/TSV                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 🔥 Editors: 
-IntelliJ IDEA            28 hrs 21 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            28 hrs 15 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    28 hrs 21 mins      █████████████████████████   100.00 % 
+Linux                    28 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -258,7 +258,7 @@ Tcl                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2026 04:10:35 UTC
+ Last Updated on 25/10/2026 04:13:10 UTC
 <!--END_SECTION:waka-->
 
 </details>
