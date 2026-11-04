@@ -183,13 +183,15 @@
 ![Waka Readme](https://github.com/Quentin18/Quentin18/workflows/Waka%20Readme/badge.svg)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.74%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C613%20hrs%2029%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.07%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 650.1 kB Used in GitHub's Storage 
  > 
-> 🏆 520 Contributions in the Year 2026
+> 🏆 525 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -197,6 +199,52 @@
  > 
 > 🔑 28 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                6944 commits        ██████████░░░░░░░░░░░░░░░   40.12 % 
+🌆 Daytime                7765 commits        ███████████░░░░░░░░░░░░░░   44.87 % 
+🌃 Evening                1702 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+🌙 Night                  895 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   3694 commits        █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
+Tuesday                  3050 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+Wednesday                2738 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+Thursday                 2253 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Friday                   3824 commits        ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
+Saturday                 1006 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Sunday                   741 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+Java                     2 hrs 35 mins       ███████████████░░░░░░░░░░   61.56 % 
+Jupyter                  1 hr 9 mins         ███████░░░░░░░░░░░░░░░░░░   27.44 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+textmate                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+
+🔥 Editors: 
+IntelliJ IDEA            4 hrs 13 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    4 hrs 13 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -210,7 +258,7 @@ Tcl                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2026 06:11:11 UTC
+ Last Updated on 04/11/2026 05:50:23 UTC
 <!--END_SECTION:waka-->
 
 </details>
